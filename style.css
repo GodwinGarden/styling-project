@@ -1,0 +1,20 @@
+
+h1
+.mainhead {
+    color: blanchedalmond;
+    background-color: royalblue;
+    font-weight:bold
+  }
+.subhead {
+    color: darkblue;
+    background-color:chartreuse;
+    text-align: center;
+    font-style: italic;
+    font: sans-serif;
+}
+.contactus {
+    background-color: darkturquoise;
+    text-align: right;
+
+}
+  
